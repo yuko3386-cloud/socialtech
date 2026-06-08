@@ -727,7 +727,7 @@ h3{
   #sns > a {
     margin-right: 30px;
   }
-}
+
 /* メインビジュアル */
    #main-visual {
      position: relative;
@@ -1094,3 +1094,5 @@ h3{
      order: 2;
      width: 100%;
    }
+  }
+  
